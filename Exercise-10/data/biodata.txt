@@ -1,0 +1,6 @@
+Nama: Petra
+Umur: 20
+Alamat: Mojolaban, Sukoharjo
+Nama: Putra
+Umur: 19
+Alamat: Palur
